@@ -55,6 +55,7 @@ Below are the development history of R-package *capn*.
 * 11-25-2019: multiple stocks v-aproximation codes were completed
 
 * 04-28-2019: multiple stocks v-aproximation for stochastic *capn* was coded
+
 ** *vaprox* was availble for multiple stocks
 
 * 11-05-2018: Code error in v-aproximation for stochastic *capn* was corrected
