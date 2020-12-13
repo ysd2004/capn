@@ -54,14 +54,13 @@ Below are the development history of R-package *capn*.
 
 * 11-25-2019: multiple stocks v-aproximation codes were completed
 
-* 04-28-2019: multiple stocks v-aproximation for stochastic *capn* was coded
-
+* 04-28-2019: multiple stocks v-aproximation for stochastic *capn* was coded\
 &nbsp;&nbsp;&nbsp;&nbsp; - *vaprox* was availble for multiple stocks
 
 * 11-05-2018: Code error in v-aproximation for stochastic *capn* was corrected
 
 * 05-21-2018: Single stock v-aproximation for stochastic *capn* was coded\
-&nbsp;&nbsp;&nbsp;&nbsp; - *chebbasisgen* was availble for a higher order derivatives
+&nbsp;&nbsp;&nbsp;&nbsp; - *chebbasisgen* was availble for a higher order derivatives\
 &nbsp;&nbsp;&nbsp;&nbsp; - *vaprox* was available for a single stock case
 
 * 03-20-2018: Initiated to develop stochstic capn model
