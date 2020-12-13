@@ -69,7 +69,7 @@ Below are the development history of R-package *capn*.
 * 06-15-2017: Official release of v.1.0.0 through R-CRAN repository
 
 * 03-30-2016: The beta test version v.0.0.3 was released through Seong Yun and Eli Fenichel's website\
-&nbsp;&nbsp;&nbsp;&nbsp; Changes of the order of input arguemnt in *aprox* and *sim* function\
+&nbsp;&nbsp;&nbsp;&nbsp; - Changes of the order of input arguemnt in *aprox* and *sim* function\
 &nbsp;&nbsp;&nbsp;&nbsp; e.g.) *vaprox(stada,aprodxspace)* -> *vaprox(aproxspace,sdata)*\
 &nbsp;&nbsp;&nbsp;&nbsp; relevant functions: *pdotaprox*, *paprox*, *vaprox*, *pdotsim*, *psim*, and *vsim*\
 &nbsp;&nbsp;&nbsp; Two new function\
