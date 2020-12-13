@@ -7,6 +7,7 @@ GitHub Repository maintained by: Seong Yun\
 Department of Agricultural Economics\
 Mississippi State University\
 **<seong.yun@msstate.edu>**\
+**<https://sites.google.com/site/yunsd2004/>**\
 *Last updated: Dec 13, 2020*
 
 ------------------------------------------------------------------------
@@ -44,7 +45,58 @@ For your testing purpose, a version currently developing is available from this 
     library(capn)
 ```
 
-3 Development History
+3 Authors
+====================================
+Seong D. Yun, Assistant Professor, Mississippi State University (<seong.yun@msstate.edu>)
+Eli P. Fenichel, Associate Professor, Yale University (<eli.fenichel@yale.edu>)
+Joshua K. Abbott, Associate Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)
+
+Maintainer/Bug report or quetion to Seong Yun (<seong.yun@msstate.edu>)
+
+4 Citation
+====================================
+Please cite the software in publications;
+
+4.1. *capn* (stable and latest) from the R-CRAN repository
+---------------------------------
+
+use `citation()` for information on how to cite the software;
+
+```r
+citation(package = "capn")
+ 
+# To cite package 'capn' in publications use:
+
+To cite package ‘capn’ in publications use:
+
+  Seong D. Yun, Eli P. Fenichel and Joshua K. Abbott (2017). capn: Capital Asset Pricing for
+  Nature. R package version 1.0.0. https://CRAN.R-project.org/package=capn
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {capn: Capital Asset Pricing for Nature},
+    author = {Seong Do Yun and Eli P. Fenichel and Joshua K. Abbott},
+    year = {2017},
+    note = {R package version 1.0.0},
+    url = {https://CRAN.R-project.org/package=capn},
+  }
+```
+
+4.2. *capn* (testing) from the R-CRAN repository
+---------------------------------
+Seong D. Yun, Eli P. Fenichel and Joshua K. Abbott (year). capn: Capital Asset Pricing for Nature. R package version (version /#). https://github.com/ysd2004/capn
+
+5 References
+====================================
+The methods and examples in *capn* are available from:
+
+* Fenichel, E. P. and J. K. Abbott, 2014, "Natural Capital: From Metaphor to Measurement," *Journal of the Association of Environmental and Resource Economists*, 1:1-27. (<https://doi.org/10.1086/676034>)
+* Yun, S. D., B. Huniczak, J. K. Abbott, and E. P. Fenichel, 2017, "Ecosystem-based Management and the Wealth of Ecosystems," *Proceedings of the National Academy of Sciences*, 114(25): 6539-6544. (<https://doi.org/10.1073/pnas.1617666114>)
+
+* Fenichel, E. P., J. K. Abbott, and S. D. Yun, 2018, "The Nature of Natural Capital and Ecosystem Income", *Handbook of Environemntal Economics* (P. Daguta, S. K. Pattanayak, and V. K. Smith eds), 4: 85-142, Elsevier (<https://www.sciencedirect.com/science/article/pii/S1574009918300020>) 
+
+6 Development History
 ====================================
 
 Below are the development history of R-package *capn*.
@@ -94,7 +146,4 @@ Below are the development history of R-package *capn*.
 
 * 08-03-2015: Development team launched to write an R-package
 
-
-4 References
-==================================================
 
