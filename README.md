@@ -70,17 +70,17 @@ Below are the development history of R-package *capn*.
 
 * 03-30-2016: The beta test version v.0.0.3 was released through Seong Yun and Eli Fenichel's website\
 &nbsp;&nbsp;&nbsp;&nbsp; - Changes of the order of input arguemnt in *aprox* and *sim* function\
-&nbsp;&nbsp;&nbsp;&nbsp; e.g.) *vaprox(stada,aprodxspace)* -> *vaprox(aproxspace,sdata)*\
-&nbsp;&nbsp;&nbsp;&nbsp; relevant functions: *pdotaprox*, *paprox*, *vaprox*, *pdotsim*, *psim*, and *vsim*\
-&nbsp;&nbsp;&nbsp; Two new function\
-&nbsp;&nbsp;&nbsp;&nbsp; *plotgen*: plot generator for shadow price or value function\
-&nbsp;&nbsp;&nbsp;&nbsp; *unigirds*: generating uniform grids\
-&nbsp;&nbsp;&nbsp; Two dimensional example is included\
-&nbsp;&nbsp;&nbsp;&nbsp; LV example
-&nbsp;&nbsp;&nbsp; Demonstration files are available\
-&nbsp;&nbsp;&nbsp;&nbsp; GOM and LV\
-&nbsp;&nbsp;&nbsp; Reported typos since v.0.0.2 were corrected\
-&nbsp;&nbsp;&nbsp; Manual was updated for new updates and better reading
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g.) *vaprox(stada,aprodxspace)* -> *vaprox(aproxspace,sdata)*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant functions: *pdotaprox*, *paprox*, *vaprox*, *pdotsim*, *psim*, and *vsim*\
+&nbsp;&nbsp;&nbsp;&nbsp; - Two new function\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *plotgen*: plot generator for shadow price or value function\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *unigirds*: generating uniform grids\
+&nbsp;&nbsp;&nbsp;&nbsp; - Two dimensional example is included\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LV example
+&nbsp;&nbsp;&nbsp;&nbsp; - Demonstration files are available\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GOM and LV\
+&nbsp;&nbsp;&nbsp;&nbsp; - Reported typos since v.0.0.2 were corrected\
+&nbsp;&nbsp;&nbsp;&nbsp; - Manual was updated for new updates and better reading
 
 * 03-20-2016: The best test version v.0.0.2 was promoted at the 2016 Natural Capital Symposium at Stanford University
 
