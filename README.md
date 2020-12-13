@@ -46,7 +46,7 @@ For your testing purpose, a version currently developing is available from this 
 3 Development History
 ====================================
 
-Below are instructions for running the R scripts to recreate the figures, tables, results, and run the risk and threshold analyses for the paper. The scripts below require R version 3.5.3 (available at <https://cran.r-project.org/bin/macosx/el-capitan/base/>).
+Below are the development history of R-package *capn*.
 
 
 12-13-2020: GiHub *capn* repository was activated
