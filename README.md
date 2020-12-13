@@ -56,12 +56,11 @@ Below are the development history of R-package *capn*.
 
 * 04-28-2019: multiple stocks v-aproximation for stochastic *capn* was coded
 
-** *vaprox* was availble for multiple stocks
+&nbsp;&nbsp;&nbsp;&nbsp; *vaprox* was availble for multiple stocks
 
 * 11-05-2018: Code error in v-aproximation for stochastic *capn* was corrected
 
 * 05-21-2018: Single stock v-aproximation for stochastic *capn* was coded\
-&nbsp;&nbsp;&nbsp; Major updates\
 &nbsp;&nbsp;&nbsp;&nbsp; *chebbasisgen* was availble for a higher order derivatives
 &nbsp;&nbsp;&nbsp;&nbsp; *vaprox* was available for a single stock case
 
@@ -70,7 +69,6 @@ Below are the development history of R-package *capn*.
 * 06-15-2017: Official release of v.1.0.0 through R-CRAN repository
 
 * 03-30-2016: The beta test version v.0.0.3 was released through Seong Yun and Eli Fenichel's website\
-&nbsp;&nbsp;&nbsp; Major updates\
 &nbsp;&nbsp;&nbsp;&nbsp; Changes of the order of input arguemnt in *aprox* and *sim* function\
 &nbsp;&nbsp;&nbsp;&nbsp; e.g.) *vaprox(stada,aprodxspace)* -> *vaprox(aproxspace,sdata)*\
 &nbsp;&nbsp;&nbsp;&nbsp; relevant functions: *pdotaprox*, *paprox*, *vaprox*, *pdotsim*, *psim*, and *vsim*\
