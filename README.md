@@ -1,5 +1,7 @@
 # *capn*: Captial Asset Pricing for Nature
 
+![CRAN/METACRAN](https://img.shields.io/cran/v/capn?color=blue)
+
 *This repository is to develop and distribute a testing version of R-package _capn_. The stable latest version is directly available from R-CRAN.*
 *Data and code are subject to change*
 
