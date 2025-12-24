@@ -134,7 +134,7 @@ Below are the development history of R-package *capn*.
 &nbsp;&nbsp;&nbsp;&nbsp; - Reported typos since v.0.0.2 were corrected\
 &nbsp;&nbsp;&nbsp;&nbsp; - Manual was updated for new updates and better reading
 
-* 03-20-2016: The best test version v.0.0.2 was promoted at the 2016 Natural Capital Symposium at Stanford University
+* 03-20-2016: The beta test version v.0.0.2 was promoted at the 2016 Natural Capital Symposium at Stanford University
 
 * 03-16-2016: The beta test version v.0.0.2 was released through Seong Yun and Eli Fenichel's website   
 
