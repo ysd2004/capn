@@ -1,0 +1,21 @@
+AFY                            Abbott-Fenichel-Yun Data (1-D Stochastic Example)
+aproxdef                       Define Approximation Space
+chebbasisgen                   Generate Unidimensional Chebyshev Polynomial Basis
+chebgrids                      Generate Chebyshev Grids
+chebnodegen                    Unidimensional Chebyshev Nodes
+forest                         Dougles-Fir Forest Data in Western Oregon (1-D Example)
+GOM                            Gulf of Mexico Reef Fish Example Data (1-D Deterministic)
+LV                             Prey-Predator (Lotka-Volterra) Example Data (2-D
+                               Deterministic)
+paprox                         Calculate P-Approximation Coefficients
+pdotaprox                      Compute Pdot-Approximation Coefficients
+pdotsim                        Simulation of Pdot-Approximation
+plotgen                        Plot Generator for Shadow Price and Value Function
+psim                           Simulation of P-Approximation
+unigrids                       Generate Uniform Grids
+vaprox                         Computing Value Function (V) Approximation Coefficients
+vaprox.pindyck                 Computing Value Function (V) Approximation Coefficients for
+                               examples in Pindyck (1984)
+vaprox.pjump                   Value Function Approximation with Poisson Jump Risk
+vaprox.split                   Value Function Approximation with Inaction (Split) Management
+vsim                           Simulation of Value Function Approximation
