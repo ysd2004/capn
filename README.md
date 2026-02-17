@@ -1,15 +1,10 @@
 # *capn*: Captial Asset Pricing for Nature
 
-<<<<<<< HEAD
 *This repository develops and distributes a testing version of the R package capn.*
 *The latest stable release is available on CRAN.*
 *Data and code in this repository are subject to change.*
 =======
 ![CRAN/METACRAN](https://img.shields.io/cran/v/capn?color=blue) ![](http://cranlogs.r-pkg.org/badges/grand-total/capn?color=blue) 
-
-*This repository is to develop and distribute a testing version of R-package _capn_. The stable latest version is directly available from R-CRAN.*
-*Data and code are subject to change*
->>>>>>> ec5b66d81af9187cf1f3f48e4767491fb0458837
 
 GitHub Repository maintained by: Seong D. Yun\
 Department of Agricultural Economics\
