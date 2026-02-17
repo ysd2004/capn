@@ -59,11 +59,11 @@ A development version is available for testing purposes.
 
 3 Authors
 ====================================
-Seong D. Yun, Associate Professor, Mississippi State University (<yunsd2004@gmail.edu>)\
+Seong D. Yun, Associate Professor, Mississippi State University (<yunsd2004@gmail.edu>)
 
-Eli P. Fenichel, Professor, Yale University (<eli.fenichel@yale.edu>)\
+Eli P. Fenichel, Professor, Yale University (<eli.fenichel@yale.edu>)
 
-Joshua K. Abbott, Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)\
+Joshua K. Abbott, Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)
 
 Maintainer and Bug Reports: Seong Yun (<yunsd2004@gmail.com>)
 
