@@ -1,29 +1,37 @@
 # *capn*: Captial Asset Pricing for Nature
 
-*This repository is to develop and distribute a testing version of R-package _capn_. The stable latest version is directly available from R-CRAN.*
-*Data and code are subject to change*
+*This repository develops and distributes a testing version of the R package capn.*
+*The latest stable release is available on CRAN.*
+*Data and code in this repository are subject to change.*
 
-GitHub Repository maintained by: Seong Yun\
+GitHub Repository maintained by: Seong D. Yun\
 Department of Agricultural Economics\
 Mississippi State University\
-**<seong.yun@msstate.edu>**\
+**<yunsd2004@gmail.com>**\
 **<https://sites.google.com/site/yunsd2004/>**\
-*Last updated: Dec 13, 2020*
+*Last updated: Feb 16, 2026*
 
 ------------------------------------------------------------------------
 
 1 *capn* R-package
 ==========
 
-A collection of functions that implements the approximation methods for natural capital asset prices suggested by Fenichel and Abbott (2014) in Journal of the Associations of Environmental and Resource Economists, Fenichel et al. (2016) in Proceedings of the National Academy of Sciences, and a third method, and its extensions to multiple stocks (where feasible): creating Chebyshev polynomial nodes and grids, calculating basis of Chebyshev polynomials, approximation and their simulations for: V-approximation (single and multiple stocks), P-approximation (single stock, PNAS), and Pdot-approximation (single stock, JAERE).
+The capn package implements approximation methods for natural capital asset prices proposed in:
+
+* Abbott, Fenichel, and Yun (2026)
+* Fenichel and Abbott (2014)
+* Fenichel, Abbott, and Yun (2018)
+* Hashida and Fenichel (2022)
+* Yun et al. (2017)
+* Subsequent methodological extensions
 
 2 Getting started:
 ==================
 
-2.1. Install the latest version (complete) of *capn* from the R-CRAN repository:
+2.1. Install the Latest Stable Version from CRAN:
 --------------------------------------------------
 
-The latest version of *capn* is available from the R-CRAN repository. Users can install and use all functions and features directly installing it from the R-CRAN repository.
+The official release of *capn* is available on CRAN:
 
 ``` r
     ## In R
@@ -31,10 +39,10 @@ The latest version of *capn* is available from the R-CRAN repository. Users can 
     library(capn)
 ```
 
-2.2. Install *capn* testing version from the github repository:
+2.2. Install the Development (Testing) Version from GitHub:
 ---------------------------------
 
-For your testing purpose, a version currently developing is available from this GitHub repository.
+A development version is available for testing purposes.
 
 
 ``` r
@@ -47,20 +55,20 @@ For your testing purpose, a version currently developing is available from this 
 
 3 Authors
 ====================================
-Seong D. Yun, Assistant Professor, Mississippi State University (<seong.yun@msstate.edu>)
-Eli P. Fenichel, Associate Professor, Yale University (<eli.fenichel@yale.edu>)
-Joshua K. Abbott, Associate Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)
+Seong D. Yun, Associate Professor, Mississippi State University (<yunsd2004@gmail.edu>)
+Eli P. Fenichel, Professor, Yale University (<eli.fenichel@yale.edu>)
+Joshua K. Abbott, Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)
 
-Maintainer/Bug report or quetion to Seong Yun (<seong.yun@msstate.edu>)
+Maintainer and Bug Reports: Seong Yun (<yunsd2004@gmail.com>)
 
 4 Citation
 ====================================
-Please cite the software in publications;
+Please cite the software in academic publications.
 
-4.1. *capn* (stable and latest) from the R-CRAN repository
+4.1. *capn* (stable and latest) from CRAN
 ---------------------------------
 
-use `citation()` for information on how to cite the software;
+use `citation()`;
 
 ```r
 citation(package = "capn")
@@ -83,7 +91,7 @@ A BibTeX entry for LaTeX users is
   }
 ```
 
-4.2. *capn* (testing) from the R-CRAN repository
+4.2. *capn* (testing and development) version (GitHub)
 ---------------------------------
 Seong D. Yun, Eli P. Fenichel and Joshua K. Abbott (year). capn: Capital Asset Pricing for Nature. R package version (version /#). https://github.com/ysd2004/capn
 
@@ -91,59 +99,54 @@ Seong D. Yun, Eli P. Fenichel and Joshua K. Abbott (year). capn: Capital Asset P
 ====================================
 The methods and examples in *capn* are available from:
 
-* Fenichel, E. P. and J. K. Abbott, 2014, "Natural Capital: From Metaphor to Measurement," *Journal of the Association of Environmental and Resource Economists*, 1:1-27. (<https://doi.org/10.1086/676034>)
-* Yun, S. D., B. Huniczak, J. K. Abbott, and E. P. Fenichel, 2017, "Ecosystem-based Management and the Wealth of Ecosystems," *Proceedings of the National Academy of Sciences*, 114(25): 6539-6544. (<https://doi.org/10.1073/pnas.1617666114>)
+* Abbott, J. K., E. P. Fenichel, and S. D. Yun, 2026, "Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital"
 
-* Fenichel, E. P., J. K. Abbott, and S. D. Yun, 2018, "The Nature of Natural Capital and Ecosystem Income", *Handbook of Environemntal Economics* (P. Daguta, S. K. Pattanayak, and V. K. Smith eds), 4: 85-142, Elsevier (<https://www.sciencedirect.com/science/article/pii/S1574009918300020>) 
+* Fenichel, E. P. and J. K. Abbott, 2014, "Natural Capital: From Metaphor to Measurement," *Journal of the Association of Environmental and Resource Economists*, 1:1-27. (<https://doi.org/10.1086/676034>)
+
+* Fenichel, E. P., J. K. Abbott, and S. D. Yun, 2018, "The Nature of Natural Capital and Ecosystem Income", *Handbook of Environemntal Economics* (P. Daguta, S. K. Pattanayak, and V. K. Smith eds), 4: 85-142, Elsevier (<https://doi.org/10.1016/bs.hesenv.2018.02.002>) 
+
+* Hashida, Y. and E. P. Fenichel, 2022, "Valuing Natural Capital When Management Is Dominated by Periods of Inaction", *American Journal of Agricultural Economics*, 104(2): 791-811. (<https://doi.org/10.1111/ajae.12250>)
+
+* Yun, S. D., B. Huniczak, J. K. Abbott, and E. P. Fenichel, 2017, "Ecosystem-based Management and the Wealth of Ecosystems," *Proceedings of the National Academy of Sciences*, 114(25): 6539-6544. (<https://doi.org/10.1073/pnas.1617666114>)
 
 6 Development History
 ====================================
 
-Below are the development history of R-package *capn*.
+Below is a chronological record of the development of the *capn* R package.
 
-* 12-13-2020: GiHub *capn* repository was activated
+* 2-16-2026: Released *v2.0.0* on GitHub.
 
-* 02-08-2020: Initiated to develop *capn* v.2.0.0 
+* 1-17-2026: Initiated public testing for *v2.0.0*.
 
-* 11-25-2019: multiple stocks v-aproximation codes were completed
+* 12-13-2020: Activated the GitHub repository for *capn*.
 
-* 04-28-2019: multiple stocks v-aproximation for stochastic *capn* was coded\
-&nbsp;&nbsp;&nbsp;&nbsp; - *vaprox* was availble for multiple stocks
+* 02-08-2020: Development of *v2.0.0* initiated. 
 
-* 11-05-2018: Code error in v-aproximation for stochastic *capn* was corrected
+* 11-25-2019: Completed multiple-stock *v*-approximation algorithms.
 
-* 05-21-2018: Single stock v-aproximation for stochastic *capn* was coded\
-&nbsp;&nbsp;&nbsp;&nbsp; - *chebbasisgen* was availble for a higher order derivatives\
-&nbsp;&nbsp;&nbsp;&nbsp; - *vaprox* was available for a single stock case
+* 04-28-2019: Implemented multi-stock *v*-approximation for the stochastic *capn* model.\
+&nbsp;&nbsp;&nbsp;&nbsp; `vaprox()` became available for multiple-stock cases.
 
-* 03-20-2018: Initiated to develop stochstic capn model
+* 11-05-2018: Corrected code errors in the stochastic multi-stock *v*-approximation.
 
-* 06-15-2017: Official release of v.1.0.0 through R-CRAN repository
+* 05-21-2018: Implemented single-stock *v*-approximation for the stochastic *capn* model.\
+&nbsp;&nbsp;&nbsp;&nbsp; - `chebbasisgen()` added for higher-order derivatives.\
+&nbsp;&nbsp;&nbsp;&nbsp; - `vaprox()` available for the single-stock case.
 
-* 03-30-2016: The beta test version v.0.0.3 was released through Seong Yun and Eli Fenichel's website\
-&nbsp;&nbsp;&nbsp;&nbsp; - Changes of the order of input arguemnt in *aprox* and *sim* function\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g.) *vaprox(stada,aprodxspace)* -> *vaprox(aproxspace,sdata)*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant functions: *pdotaprox*, *paprox*, *vaprox*, *pdotsim*, *psim*, and *vsim*\
-&nbsp;&nbsp;&nbsp;&nbsp; - Two new function\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *plotgen*: plot generator for shadow price or value function\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *unigirds*: generating uniform grids\
-&nbsp;&nbsp;&nbsp;&nbsp; - Two dimensional example is included\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LV example\
-&nbsp;&nbsp;&nbsp;&nbsp; - Demonstration files are available\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GOM and LV\
-&nbsp;&nbsp;&nbsp;&nbsp; - Reported typos since v.0.0.2 were corrected\
-&nbsp;&nbsp;&nbsp;&nbsp; - Manual was updated for new updates and better reading
+* 03-20-2018: Initiated development of the stochastic **{capn}** model.
 
-* 03-20-2016: The beta test version v.0.0.2 was promoted at the 2016 Natural Capital Symposium at Stanford University
+* 06-15-2017: Official release of *v1.0.0* on CRAN.
 
-* 03-16-2016: The beta test version v.0.0.2 was released through Seong Yun and Eli Fenichel's website   
+* 03-30-2016: Released beta version *v0.0.3* via Seong Yun and Eli Fenichel's website.
 
-* 01-27-2016: The package name was changed to /{*capn*/} 
+* 03-20-2016: Promoted beta version *v0.0.2* at the 2016 Natural Capital Symposium (Stanford University).
 
-* 01-18-2016: The beta test version v.0.0.1 was released to the developing group. The package named /{*nsim*/}
+* 03-16-2016: Released beta version *v0.0.2* via Seong Yun and Eli Fenichel's website.  
 
-* 08-17-2015: Team meeting at Yale University
+* 01-27-2016: Package renamed to `{capn}` (previously `{nsim}`).
 
-* 08-03-2015: Development team launched to write an R-package
+* 01-18-2016: Released beta version *v0.0.1* to the development group under the name `{nsim}`.
 
+* 08-17-2015: Team meeting at Yale University.
 
+* 08-03-2015: Development team formed to create the R package.
