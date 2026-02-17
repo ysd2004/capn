@@ -2,7 +2,7 @@
 
 This repository develops and distributes a testing version of the R package capn.\
 The latest stable release is available on CRAN.\
-Data and code in this repository are subject to change.
+Data and code in this repository are subject to change.\
 
 =======
 ![CRAN/METACRAN](https://img.shields.io/cran/v/capn?color=blue) ![](http://cranlogs.r-pkg.org/badges/grand-total/capn?color=blue) 
