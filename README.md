@@ -6,8 +6,6 @@
 
 * Data and code in this repository are subject to change.
 
-==========
-
 ![CRAN/METACRAN](https://img.shields.io/cran/v/capn?color=blue) ![](http://cranlogs.r-pkg.org/badges/grand-total/capn?color=blue) 
 
 GitHub Repository maintained by: Seong D. Yun\
@@ -61,9 +59,11 @@ A development version is available for testing purposes.
 
 3 Authors
 ====================================
-Seong D. Yun, Associate Professor, Mississippi State University (<yunsd2004@gmail.edu>)
-Eli P. Fenichel, Professor, Yale University (<eli.fenichel@yale.edu>)
-Joshua K. Abbott, Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)
+Seong D. Yun, Associate Professor, Mississippi State University (<yunsd2004@gmail.edu>)\
+
+Eli P. Fenichel, Professor, Yale University (<eli.fenichel@yale.edu>)\
+
+Joshua K. Abbott, Professor, Arizona State Unviersity (<joshua.k.abbott@asu.edu>)\
 
 Maintainer and Bug Reports: Seong Yun (<yunsd2004@gmail.com>)
 
