@@ -105,7 +105,7 @@ Seong D. Yun, Eli P. Fenichel and Joshua K. Abbott (year). capn: Capital Asset P
 ====================================
 The methods and examples in *capn* are available from:
 
-* Abbott, J. K., E. P. Fenichel, and S. D. Yun, 2026, "Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital"
+* Abbott, J. K., E. P. Fenichel, and S. D. Yun, 2026, "Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital," *Journal of the Association of Environmental and Resource Economists*, 13(5): 1269-1309. (<https://doi.org/10.1086/741689>)
 
 * Fenichel, E. P. and J. K. Abbott, 2014, "Natural Capital: From Metaphor to Measurement," *Journal of the Association of Environmental and Resource Economists*, 1:1-27. (<https://doi.org/10.1086/676034>)
 
