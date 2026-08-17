@@ -137,7 +137,8 @@ plotgen(vPSS, ftype = "p",
 
 \references{
 Abbott, Joshua K., Eli P. Fenichel, and Seong D. Yun. (2026).
-\emph{Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital}. \cr
+\href{https://doi.org/10.1086/741689}{Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital}
+\emph{Journal of the Association of Environmental and Resource Economists}, 13(5), 1269-1309. \cr
 
 Reed, William J. and Hector E. Heras. (1992).
 \href{https://doi.org/10.1007/BF02464829}{The Conservation and Exploitation of Vulnerable Resources}.
