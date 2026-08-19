@@ -49,7 +49,6 @@ one-dimensional stochastic example in Abbott, Fenichel, and Yun (2026),
 which extends the classic renewable resource model of Pindyck (1984).
 The dataset illustrates the natural capital asset pricing (CAPN) framework
 under uncertainty.
-A complete worked example is provided in \code{AFYdemo}.
 }
 
 \details{

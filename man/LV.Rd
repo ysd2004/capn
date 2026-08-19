@@ -41,7 +41,6 @@ asset pricing (CAPN) methods.
 This example corresponds to a two-dimensional deterministic setting.
 The dataset includes both approximation data on a Chebyshev grid and
 time-series simulation output from the underlying dynamic system.
-A detailed simulation example is provided in \code{LVdemo}.
 }
 
 \details{

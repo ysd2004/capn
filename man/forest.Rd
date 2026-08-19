@@ -41,7 +41,6 @@ data("forest")
 Douglas-fir forest in Western Oregon example (industrial siteclass 3) from Hashida and Fenichel (2022).
 The dataset illustrates the natural capital asset pricing (CAPN)
 framework in a one-dimensional deterministic setting.
-A detailed simulation example is provided in \code{forestdemo}.
 }
 
 \details{

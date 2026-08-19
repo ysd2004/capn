@@ -50,7 +50,6 @@ data("GOM")
 Gulf of Mexico reef fish example from Fenichel and Abbott (2014).
 The dataset illustrates the natural capital asset pricing (CAPN)
 framework in a one-dimensional deterministic setting.
-A detailed simulation example is provided in \code{GOMdemo}.
 }
 
 \details{
