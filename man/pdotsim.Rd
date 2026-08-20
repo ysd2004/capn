@@ -95,13 +95,16 @@ plotgen(GOMSimPdot,
         ylabel = c("Value Function", "Profit"))
 }
 \references{
-Fenichel, Eli P. and Joshua K. Abbott. (2014) 
-"\href{http://www.journals.uchicago.edu/doi/abs/10.1086/676034}{Natural Capital: From Metaphor to Measurement}."
-\emph{Journal of the Association of Environmental Economists}. 1(1/2):1--27.\cr
+Fenichel, Eli P. and Joshua K. Abbott. (2014).
+Natural Capital: From Metaphor to Measurement.
+\emph{Journal of the Association of Environmental Economists}, 1(1/2), 1--27. 
+\doi{10.1086/676034}\cr
 
-Fenichel, Eli P., Joshua K. Abbott, Jude Bayham, Whitney Boone, Erin M. K. Haacker, and Lisa Pfeiffer. (2016) 
-"\href{http://www.pnas.org/content/113/9/2382}{Measuring the Value of Groundwater and Other Forms of Natural Capital}."
-\emph{Proceedings of the National Academy of Sciences}. 113:2382--2387.
+Fenichel, Eli P., Joshua K. Abbott, Jude Bayham, Whitney Boone,
+Erin M. K. Haacker, and Lisa Pfeiffer. (2016)
+Measuring the Value of Groundwater and Other Forms of Natural Capital.
+\emph{Proceedings of the National Academy of Sciences}. 113: 2382--2387.
+\doi{10.1073/pnas.1513779113}
 }
 \seealso{
 \code{\link{aproxdef}}, \code{\link{pdotaprox}}, \code{\link{plotgen}}, \code{\link{GOM}}

@@ -84,9 +84,9 @@ Amparo, Gil, Javier Segura, and Nico Temme (2007).
 Cambridge: Cambridge University Press.\cr
 
 Fenichel, Eli P. and Joshua K. Abbott. (2014).
-\href{http://www.journals.uchicago.edu/doi/abs/10.1086/676034}{
-Natural Capital: From Metaphor to Measurement}.
-\emph{Journal of the Association of Environmental Economists}, 1(1/2), 1--27. \cr
+Natural Capital: From Metaphor to Measurement.
+\emph{Journal of the Association of Environmental Economists}, 1(1/2), 1--27. 
+\doi{10.1086/676034} \cr
 
 Miranda, Mario J. and Paul L. Fackler (2002).
 \emph{Applied Computational Economics and Finance}.

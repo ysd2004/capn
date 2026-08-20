@@ -163,17 +163,19 @@ vCs <- vaprox(
 
 \references{
 Abbott, Joshua K., Eli P. Fenichel, and Seong D. Yun. (2026).
-\href{https://doi.org/10.1086/741689}{Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital}
-\emph{Journal of the Association of Environmental and Resource Economists}, 13(5), 1269-1309. \cr
+Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital.
+\emph{Journal of the Association of Environmental and Resource Economists}, 13(5), 1269-1309.
+\doi{10.1086/741689} \cr
 
 Fenichel, Eli P. and Joshua K. Abbott. (2014).
-\href{http://www.journals.uchicago.edu/doi/abs/10.1086/676034}{
-Natural Capital: From Metaphor to Measurement}.
-\emph{Journal of the Association of Environmental Economists}, 1(1/2), 1--27. \cr
+Natural Capital: From Metaphor to Measurement.
+\emph{Journal of the Association of Environmental Economists}, 1(1/2), 1--27. 
+\doi{10.1086/676034} \cr
 
 Yun, Seong D., Barbara Hutniczak, Joshua K. Abbott, and Eli P. Fenichel. (2017).
 Ecosystem-Based Management and the Wealth of Ecosystems.
 \emph{Proceedings of the National Academy of Sciences}, 114(25), 6539--6544.
+\doi{10.1073/pnas.1617666114}
 }
 
 \seealso{

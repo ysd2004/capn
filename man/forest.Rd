@@ -48,6 +48,7 @@ See Hashida and Fenichel (2022).
 }
 \references{
 Hashida, Yukiko and Eli P. Fenichel. (2022).
-\href{https://doi.org/10.1111/ajae.12250}{Valuing Natural Capital When Management Is Dominated by Periods of Inaction}.
+Valuing Natural Capital When Management Is Dominated by Periods of Inaction.
 \emph{American Journal of Agricultural Economics}, 104(2), 791--811.
+\doi{10.1111/ajae.12250}
 }

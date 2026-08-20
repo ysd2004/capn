@@ -163,12 +163,14 @@ plotgen(vgompertz,ftype="p",xlabel="Stock Size", ylabel="Shadow Price")
 
 \references{
 Abbott, Joshua K., Eli P. Fenichel, and Seong D. Yun. (2026).
-\href{https://doi.org/10.1086/741689}{Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital}
-\emph{Journal of the Association of Environmental and Resource Economists}, 13(5), 1269-1309. \cr
+Risky (Natural) Assets: Stochasticity, Nonconvexity, and the Value of Natural Capital.
+\emph{Journal of the Association of Environmental and Resource Economists}, 13(5), 1269-1309.
+\doi{10.1086/741689} \cr
 
 Pindyck, Robert S. (1984).
-\href{https://doi.org/10.2307/2297693}{Uncertainty in the Theory of Renewable Resource Markets}.
+Uncertainty in the Theory of Renewable Resource Markets.
 \emph{Review of Economic Studies}, 51(2), 289--303.
+\doi{10.2307/2297693}
 }
 
 \seealso{

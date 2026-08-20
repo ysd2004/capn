@@ -52,7 +52,8 @@ delta <- 0.03
 myspace <- aproxdef(deg, lb, ub, delta)
 }
 \references{
-Fenichel, Eli P. and Joshua K. Abbott (2014).
-\emph{Natural Capital: From Metaphor to Measurement}.
-Journal of the Association of Environmental and Resource Economists, 1(1--2), 1--27.
+Fenichel, Eli P. and Joshua K. Abbott. (2014).
+Natural Capital: From Metaphor to Measurement.
+\emph{Journal of the Association of Environmental Economists}, 1(1/2), 1--27. 
+\doi{10.1086/676034}
 }
