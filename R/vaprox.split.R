@@ -57,7 +57,6 @@ vaprox.split <- function(aproxspace,
   
   ## Construct linear system
   
-  
   # Waiting region (HJB equation)
   gmat.wait <- delta * phi.wait[1:split.node, ]
   hmat.wait <- diag(sdot[1:split.node]) %*% phi.s.wait[1:split.node, ]
