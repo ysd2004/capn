@@ -1,7 +1,7 @@
 \docType{data}
 \name{forest}
 \alias{forest}
-\title{Dougles-Fir Forest Data in Western Oregon (1-D Example)}
+\title{Douglas-Fir Forest Data in Western Oregon (1-D Example)}
 
 \format{
 A list with two elements:
