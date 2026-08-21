@@ -93,8 +93,8 @@ vC <- vaprox(
 )
 
 GOMSimV <- vsim(vC,
-  simData$stock,
-  simData$profit)
+                simData$stock,
+                simData$profit)
 
 # plot shadow (accounting) price: Figure 4 in Fenichel and Abbott (2014)
 plotgen(GOMSimV, xlabel="Stock size, s", ylabel="Shadow price")
@@ -128,7 +128,7 @@ legend("topright", c("Prey", "Predator"), col=c("blue", "red"),
 
 # plot shadow (accounting) prices
 plot(LV$lvsimdata[,"tseq"],lvsim[["shadowp"]][,1],type='l', lwd=2, col="blue",
-     ylim = c(-5,7),
+     ylim = c(-8,7),
      xlab="Time",
      ylab="Shadow price")
 lines(LV$lvsimdata[,"tseq"],lvsim[["shadowp"]][,2], lwd=2, col="red")
@@ -137,13 +137,13 @@ legend("topright", c("Prey", "Predator"), col=c("blue", "red"),
 
 # plot inclusive weath and value function
 plot(LV$lvsimdata[,"tseq"],lvsim[["iw"]],type='l', lwd=2, col="blue",
-     ylim = c(-0.5,1.2),
+     ylim = c(-0.5,2.5),
      xlab="Time",
      ylab="Inclusive Wealth / Value Function ($)")
 lines(LV$lvsimdata[,"tseq"],lvsim[["vfun"]], lwd=2, col="red")
 legend("topright", c("Inclusive Wealth", "Value Function"),
        col=c("blue", "red"), lty=c(1,1), lwd=c(2,2), bty="n")
-       
+
 ## 1-D Stochastic: Pindyck (1984) extension (Abbott et al., 2026)
 data("AFY")
 
@@ -157,7 +157,7 @@ vCd <- vaprox(
   AFY$simData$profit.d
 )
 
-simVd <- vsim(vCd,simData$stock)
+simVd <- vsim(vCd,AFY$simData$stock)
 
 # plot value function
 plotgen(simVd,ftype="vw",xlabel="Stock Size", ylabel="Value Function")
@@ -174,7 +174,7 @@ vCs <- vaprox(
   AFY$simData$sigs
 )
 
-simVs <- vsim(vCs,simData$stock)
+simVs <- vsim(vCs,AFY$simData$stock)
 
 # plot value function
 plotgen(simVs,ftype="vw",xlabel="Stock Size", ylabel="Value Function")
