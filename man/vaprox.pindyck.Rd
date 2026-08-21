@@ -135,7 +135,7 @@ plotgen(vlogistic,ftype="vw",xlabel="Stock Size", ylabel="Value Function")
 plotgen(vlogistic,ftype="p",xlabel="Stock Size", ylabel="Shadow Price")
 
 ################################################################################
-## Gompertz net growth function: Example 1 in Pindyck (1984)
+## Gompertz net growth function: Example 2 in Pindyck (1984)
 data("AFY")
 
 ## parameter adjustment by Pindyck (1984)
