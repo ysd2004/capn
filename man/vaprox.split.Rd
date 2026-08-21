@@ -160,12 +160,12 @@ plotdata <- data.frame(stock = vsimsplit$stock[1:m],
 ## plot shadow (accounting) prices
 ## 3p of Figure 4 in Hashida and Fenichel (2022)
 plot(plotdata$stock,plotdata$price,type='l',col='blue',
-     xlab = 'Forest Volue (MBF)',
+     xlab = 'Forest Volume (MBF)',
      ylab = 'Shadow Price ($/MBF)')
 
 ## plot value function
 plot(plotdata$stock,plotdata$vfun,type='l',
-     xlab = 'Forest Volue (MBF)',
+     xlab = 'Forest Volume (MBF)',
      ylab = 'Value Function ($)')
 }
 
